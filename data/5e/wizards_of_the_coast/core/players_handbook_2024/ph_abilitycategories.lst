@@ -274,7 +274,13 @@ ABILITYCATEGORY:Folk Hero Ideal				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO					
 ABILITYCATEGORY:Folk Hero Bond				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Folk Hero Bond																																	DISPLAYLOCATION:Character
 ABILITYCATEGORY:Folk Hero Flaw				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Folk Hero Flaw																																	DISPLAYLOCATION:Character
 
-ABILITYCATEGORY:Guild Artisan Guild Business		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guild Artisan Guild Business																															DISPLAYLOCATION:Character
+ABILITYCATEGORY:Guard Personality Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guard Personality Trait																														DISPLAYLOCATION:Character
+ABILITYCATEGORY:Guard Ideal				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guard Ideal																																DISPLAYLOCATION:Character
+ABILITYCATEGORY:Guard Bond				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guard Bond																																	DISPLAYLOCATION:Character
+ABILITYCATEGORY:Guard Flaw				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guard Flaw																																	DISPLAYLOCATION:Character
+
+ABILITYCATEGORY:Guild Artisan Guild Business	VISIBLE:QUALIFY EDITABLE:YES	EDITPOOL:NO															CATEGORY:Special Ability	TYPE:Guild Artisan Guild Business															DISPLAYLOCATION:Character
+
 ABILITYCATEGORY:Guild Artisan Personality Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guild Artisan Personality Trait																														DISPLAYLOCATION:Character
 ABILITYCATEGORY:Guild Artisan Ideal				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guild Artisan Ideal																																DISPLAYLOCATION:Character
 ABILITYCATEGORY:Guild Artisan Bond				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Guild Artisan Bond																																	DISPLAYLOCATION:Character
@@ -318,6 +324,9 @@ ABILITYCATEGORY:Urchin Personality Trait			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL
 ABILITYCATEGORY:Urchin Ideal					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Urchin Ideal																																		DISPLAYLOCATION:Character
 ABILITYCATEGORY:Urchin Bond					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Urchin Bond																																		DISPLAYLOCATION:Character
 ABILITYCATEGORY:Urchin Flaw					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Urchin Flaw																																		DISPLAYLOCATION:Character
+
+#Backgound Ability Increases
+ABILITYCATEGORY:Guard Ability Increases			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Internal			TYPE:Guard Abilitity Increases									DISPLAYLOCATION:Character
 
 ###Block: Feat Support
 # Ability Category			Visible		Editable?		Change Pool?	Category of Object	Type of Object		Specific choices list							Display Location

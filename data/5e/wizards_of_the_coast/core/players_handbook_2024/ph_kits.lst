@@ -76,6 +76,19 @@ GEAR:Clothes (Costume)
 GEAR:Belt Pouch
 GEAR:Coin (Gold)		QTY:15
 
+STARTPACK:Guard Background (A)	EQUIPBUY:0	VISIBLE:NO
+GEAR:Clothes (Traveler's)
+GEAR:Spear
+GEAR:Crossbow (Light)
+GEAR:Crossbow bolts (20)
+GEAR:Lantern (Hooded)
+GEAR:Manacles
+GEAR:Quiver
+GEAR:Coin (Gold)		QTY:12
+
+STARTPACK:Guard Background (B)	EQUIPBUY:0	VISIBLE:NO
+GEAR:Coin (Gold)		QTY:50
+
 # Musical Intruments
 STARTPACK:Instrument Bagpipes	EQUIPBUY:0	VISIBLE:NO
 GEAR:Bagpipes
@@ -212,6 +225,18 @@ GEAR:Bone Dice
 
 STARTPACK:Deck of Cards	EQUIPBUY:0	VISIBLE:NO
 GEAR:Playing Card Set
+
+STARTPACK:Dice Set	EQUIPBUY:0	VISIBLE:NO
+GEAR:Dice Set
+
+STARTPACK:Dragonchess Set	EQUIPBUY:0	VISIBLE:NO
+GEAR:Dragonchess Set
+
+STARTPACK:Playing Card Set	EQUIPBUY:0	VISIBLE:NO
+GEAR:Playing Card Set
+
+STARTPACK:Three-Dragon Ante Set	EQUIPBUY:0	VISIBLE:NO
+GEAR:Three-Dragon Ante Set
 
 STARTPACK:Urchin Background	EQUIPBUY:0	VISIBLE:NO
 GEAR:small knife
